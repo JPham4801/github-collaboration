@@ -1,0 +1,3 @@
+ - tesla bad
+ - nvidia good
+ - hulk smash
